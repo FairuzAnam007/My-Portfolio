@@ -2,7 +2,7 @@
 var typed = new Typed('.typing', {
   strings: [
     '',
-    'Ehical Hacker...',
+    'Ethical Hacker...',
     'Web Developer...',
     'Graphic Designer...',
     'Bunty Hunter... ',
