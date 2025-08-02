@@ -5,7 +5,7 @@ var typed = new Typed('.typing', {
     'Ethical Hacker...',
     'Web Developer...',
     'Graphic Designer...',
-    'Bunty Hunter... ',
+    'Bounty Hunter... ',
   ],
   typeSpeed: 100,
   BackSpeed: 60,
