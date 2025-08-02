@@ -375,38 +375,6 @@ h3.my-profession {
   border-radius: 12px;
   height: 450px;
 }
-/* Make images scale nicely */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* Adjust container padding on small screens */
-.container {
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-/* Responsive for tablets and phones */
-@media (max-width: 768px) {
-  .portfolio .portfolio-item {
-    flex: 0 0 50%;
-    max-width: 50%;
-  }
-}
-
-@media (max-width: 480px) {
-  .portfolio .portfolio-item {
-    flex: 0 0 100%;
-    max-width: 100%;
-  }
-  
-  .section {
-    left: 0 !important; /* if you have a fixed sidebar that hides on mobile */
-  }
-}
-
 /* About */
 .about .about-content {
   flex: 0 0 100%;
